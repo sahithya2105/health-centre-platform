@@ -321,6 +321,8 @@ To build a smart, AI-powered healthcare platform that enables patients and distr
 
 **Live Project:** https://health-centre-frontend.onrender.com
 
+**Project demo video:** https://drive.google.com/file/d/1WB6rtaT1pcBCh2vpnpbRh535f29LLm4S/view?usp=drivesdk
+
 ---
 
 # ⭐ If you found this project useful, don't forget to Star the repository!
