@@ -18,7 +18,8 @@ const {
 } = require('./analytics');
 
 const app = express();
-app.use(cors());
+const allowedOrigin = process.env.ALLOWED_ORIGIN || '*';
+app.use(cors({ origin: allowedOrigin }));
 app.use(express.json());
 
 const today = () => new Date().toISOString().slice(0, 10);
