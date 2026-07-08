@@ -1,0 +1,6 @@
+node_modules/
+health.db
+health.db-shm
+health.db-wal
+dist/
+.env
